@@ -5,7 +5,7 @@ Users pay **0.01 USDC** per MCP query, showcasing how to monetize AI services wi
 
 ## 📺 See it in Action
 
-[![Tweazy Demo]([https://img.youtube.com/vi/VIDEO_ID/0.jpg](https://i.imgur.com/17TkneO.png))]([https://www.youtube.com/watch?v=VIDEO_ID](https://www.youtube.com/watch?v=DNMeMPvgTQk))
+[![Tweazy Demo](https://i.imgur.com/17TkneO.png)](https://www.youtube.com/watch?v=DNMeMPvgTQk)
 
 ## 🚀 What This App Does
 
